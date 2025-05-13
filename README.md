@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AsiaKabacinska
 - 👀 I’m interested in photography, books, old films and astrology.
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on creating websites from the visual side.
 - 📫 How to reach me - my email: joannakabatek@gmail.com
 
